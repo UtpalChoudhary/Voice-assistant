@@ -1,2 +1,2 @@
-# Voice-assistant
-This is a python-based voice assistant which takes human voice as input, convert it into text, look for the pre-defined instructions and take the action accordingly.
+#virtual voice assistant 
+Developed a virtual voice assistant using python. Able to open applications, read news headlines, gives weather updates, play music, do calculations, retrieve information from Wikipedia, search query on google, take notes, and so on. All with a single user's voice command.
